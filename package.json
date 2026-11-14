@@ -13,7 +13,8 @@
   "files": [
     "Dragoon.js",
     "Dragoon.d.ts",
-    "Dragoon.js.map"
+    "Dragoon.js.map",
+    "Dragoon.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
